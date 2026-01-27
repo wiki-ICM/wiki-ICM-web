@@ -1,0 +1,16 @@
+site_name: wiki-ICM
+
+
+
+nav:
+  - Home: index.md
+  - Primer año : a1.md
+  - Segundo año : a2.md
+  - Tercer año : a3.md
+  - Cuarto año : a4.md
+  - Quinto año : a5.md
+  - Sexto año : a6.md 
+  - Otros: ot.md
+theme:
+  name: mkdocs
+  color_mode: auto
