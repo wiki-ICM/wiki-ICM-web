@@ -1,5 +1,5 @@
 site_name: wiki-ICM
-
+site_url: https://github.com/wiki-ICM/wiki-ICM-web.git
 
 
 nav:
@@ -9,7 +9,8 @@ nav:
   - Tercer año : a3.md
   - Cuarto año : a4.md
   - Quinto año : a5.md
-  - Sexto año : a6.md 
+  - Sexto año : a6.md
+  - Electivos: elec.md 
   - Otros: ot.md
 theme:
   name: mkdocs
