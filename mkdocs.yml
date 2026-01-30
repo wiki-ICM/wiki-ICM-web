@@ -13,5 +13,5 @@ nav:
   - Electivos: elec.md 
   - Otros: ot.md
 theme:
-  name: mkdocs
+  name: material
   color_mode: auto
