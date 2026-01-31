@@ -4,12 +4,12 @@ site_url: https://github.com/wiki-ICM/wiki-ICM-web.git
 
 nav:
   - Home: index.md
-  - Primer año : a1.md
-  - Segundo año : a2.md
-  - Tercer año : a3.md
-  - Cuarto año : a4.md
-  - Quinto año : a5.md
-  - Sexto año : a6.md
+  - Primer Año : a1.md
+  - Segundo Año : a2.md
+  - Tercer Año : a3.md
+  - Cuarto Año : a4.md
+  - Quinto Año : a5.md
+  - Sexto Año : a6.md
   - Electivos: elec.md 
   - Otros: ot.md
 theme:
