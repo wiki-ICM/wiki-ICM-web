@@ -13,5 +13,5 @@ nav:
   - Electivos: elec.md 
   - Otros: ot.md
 theme:
-  name: readthedocs
+  name: github
   color_mode: auto
