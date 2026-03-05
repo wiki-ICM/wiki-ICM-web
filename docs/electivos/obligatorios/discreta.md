@@ -1,0 +1,2 @@
+- [Metodos Algebraicos para Combinatoria](https://github.com/wiki-ICM/wiki-ICM/tree/main/Electivos/Electivos%20Obligatorios%20de%20la%20Orientaci%C3%B3n/Matem%C3%A1ticas%20discretas/Metodos%20algebraicos%20para%20combinatoria)
+- [Metodos Probabilistas](https://github.com/wiki-ICM/wiki-ICM/tree/main/Electivos/Electivos%20Obligatorios%20de%20la%20Orientaci%C3%B3n/Matem%C3%A1ticas%20discretas/M%C3%A9todos%20probabilistas)
