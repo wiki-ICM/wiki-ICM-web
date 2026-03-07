@@ -1,2 +1,7 @@
-- [Analisis Funcional II](https://github.com/wiki-ICM/wiki-ICM/tree/main/Electivos/Electivos%20Obligatorios%20de%20la%20Orientaci%C3%B3n/An%C3%A1lisis%20Num%C3%A9rico%20y%20Ecuaciones%20Diferenciales/An%C3%A1lisis%20Funcional%20II%20(525402))
-- [Ecuaciones Diferenciales Parciales y Aplicaciones I](https://github.com/wiki-ICM/wiki-ICM/tree/main/Electivos/Electivos%20Obligatorios%20de%20la%20Orientaci%C3%B3n/An%C3%A1lisis%20Num%C3%A9rico%20y%20Ecuaciones%20Diferenciales/Ecuaciones%20Diferenciales%20Parciales%20y%20Aplicaciones%20I%20(525501))
+# :material-function: Análisis Numérico y EDP
+---
+
+## **:material-school: Listado de Asignaturas**
+
+[:material-infinity: Análisis Funcional II](https://github.com/wiki-ICM/wiki-ICM/tree/main/Electivos/Electivos%20Obligatorios%20de%20la%20Orientaci%C3%B3n/An%C3%A1lisis%20Num%C3%A9rico%20y%20Ecuaciones%20Diferenciales/An%C3%A1lisis%20Funcional%20II%20(525402)){ .md-button }
+[:material-variable: Ecuaciones Diferenciales Parciales y Aplicaciones I](https://github.com/wiki-ICM/wiki-ICM/tree/main/Electivos/Electivos%20Obligatorios%20de%20la%20Orientaci%C3%B3n/An%C3%A1lisis%20Num%C3%A9rico%20y%20Ecuaciones%20Diferenciales/Ecuaciones%20Diferenciales%20Parciales%20y%20Aplicaciones%20I%20(525501)){ .md-button }
