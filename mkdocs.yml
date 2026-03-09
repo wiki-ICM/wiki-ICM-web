@@ -17,10 +17,14 @@ nav:
         - Electivos Obligatorios:
             - Analisis Numerico y Ecuaciones Diferenciales: electivos/obligatorios/num.md
             - Matematicas Discretas: electivos/obligatorios/discreta.md
+            - Estadistica y Procesos Estocasticos: electivos/obligatorios/estadistica.md
+            - Optimizacion y Control: electivos/obligatorios/opti.md
+
         - Electivos Opcionales:
             - Analisis Numerico y Ecuaciones Diferenciales: electivos/opcionales/num.md
             - Matematicas Discretas: electivos/opcionales/discreta.md
             - Estadistica y Procesos Estocasticos: electivos/opcionales/estadistica.md
+            - Optimizacion y Control: electivos/opcionales/opti.md
   - Otros: ot.md
   
 
