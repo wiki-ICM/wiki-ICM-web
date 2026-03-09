@@ -1,4 +1,4 @@
-# 📚 Wiki-ICM
+#  :material-book: Wiki-ICM 
 
 <p align="center">
   <img src="assets/imagen.png" alt="Logo Wiki-ICM" width="400">
@@ -6,18 +6,16 @@
 
 ---
 
-Bienvenido a **Wiki-ICM**, un proyecto que busca centralizar apuntes, guías y bibliografía para facilitar el estudio y la organización del material académico.
-
-Hecho para la carrera de **Ingeniería Civil Matemática UdeC**.
+Bienvenido a **Wiki-ICM**, un proyecto que busca recopilar apuntes, listados y material de la carrera **Ingeniería Civil Matemática UdeC**.
 
 ---
 
 ## 📂 Contenido
 
-Los recursos están organizados siguiendo la estructura curricular de la carrera:
+Los recursos están organizados siguiendo la malla curricular de la carrera:
 
-* 📘 **Malla Ingeniería Civil Matemática:** Apuntes, guías, certámenes pasados y libros de los ramos obligatorios.
-* 🛠 **Recursos Adicionales:** Otros ramos electivos o de otras carreras relacionadas.
+* :material-school: **Malla Ingeniería Civil Matemática:** Apuntes, guías, certámenes pasados y libros  🛠 
+* :material-plus-box: **Recursos Adicionales:** Otros ramos electivos o de otras carreras relacionadas.
 
 ---
 
