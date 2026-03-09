@@ -3,5 +3,5 @@
 
 ## **:material-school: Listado de Asignaturas**
 
-[:material-lightbulb: Algoritmos de Aproximación Heurística y Aplicaciones](https://github.com/wiki-ICM/wiki-ICM/tree/main/Electivos/Electivos%20Opcionales%20de%20la%20Orientaci%C3%B3n/Matem%C3%A1ticas%20discretas/Algoritmos%20de%20aproximaci%C3%B3n%20heur%C3%ADstica%20y%20aplicaciones%20(525501)){ .md-button }
-[:material-graph: Teoría de Grafos](https://github.com/wiki-ICM/wiki-ICM/tree/main/Electivos/Electivos%20Opcionales%20de%20la%20Orientaci%C3%B3n/Matem%C3%A1ticas%20discretas/Teoria%20de%20grafos%20(525141)){ .md-button }
+[:material-family-tree: Metodos Algebraicos para Combinatoria](https://github.com/wiki-ICM/wiki-ICM/tree/main/Electivos/Electivos%20Opcionales%20de%20la%20Orientaci%C3%B3n/Matem%C3%A1ticas%20discretas/Metodos%20algebraicos%20para%20combinatoria){ .md-button }
+[:material-dice-multiple: Metodos Probabilistas](https://github.com/wiki-ICM/wiki-ICM/tree/main/Electivos/Electivos%20Opcionales%20de%20la%20Orientaci%C3%B3n/Matem%C3%A1ticas%20discretas/M%C3%A9todos%20probabilistas){ .md-button }

@@ -1,4 +1,4 @@
-# :material-chart-bell-curve-cumulative: Estadística y Procesos Estocásticos (Opcionales)
+# :material-chart-bell-curve-cumulative: Estadística y Procesos Estocásticos 
 ---
 
 ## **:material-school: Listado de Asignaturas**

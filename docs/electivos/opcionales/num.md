@@ -1,4 +1,4 @@
-# :material-function: Análisis Numérico y EDP (Opcionales)
+# :material-function: Análisis Numérico y EDP
 ---
 
 ## **:material-school: Listado de Asignaturas**
