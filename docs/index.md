@@ -26,3 +26,5 @@ Por el momento estamos iniciando, así que si tienes material útil, sugerencias
 * 📧 [jjunemann2024@udec.cl](mailto:jjunemann2024@udec.cl)
 * 📧 [bsandoval2018@udec.cl](mailto:bsandoval2018@udec.cl)
 * 📧 [pnahuelquin2024@udec.cl](mailto:pnahuelquin2024@udec.cl)
+
+y el weon del **TANO** 
