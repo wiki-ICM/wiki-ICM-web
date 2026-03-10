@@ -21,8 +21,14 @@ Los recursos están organizados siguiendo la malla curricular de la carrera:
 
 ## 🤝 ¿Cómo puedo ser parte?
 
-Por el momento estamos iniciando, así que si tienes material útil, sugerencias o quieres ser parte del equipo de trabajo, puedes contactarnos a:
 
-* 📧 [jjunemann2024@udec.cl](mailto:jjunemann2024@udec.cl)
-* 📧 [bsandoval2018@udec.cl](mailto:bsandoval2018@udec.cl)
-* 📧 [pnahuelquin2024@udec.cl](mailto:pnahuelquin2024@udec.cl)*    [femunoz2022@udec.cl](mailto:femunoz2022@udec.cl) 
+
+Si tienes material para aportar puedes subirlo [aqui](https://drive.google.com/drive/folders/1DJBW6QvXpCti3Z_lFaO2_y4eFNrsqQ3G?usp=sharing), si tienes sugerencias o quieres ser parte del equipo de trabajo, puedes contactarnos a:
+
+* :material-email: [jjunemann2024@udec.cl](mailto:jjunemann2024@udec.cl)
+* :material-email: [bsandoval2018@udec.cl](mailto:bsandoval2018@udec.cl)
+* :material-email: [pnahuelquin2024@udec.cl](mailto:pnahuelquin2024@udec.cl)
+* :material-email: [femunoz2022@udec.cl](mailto:femunoz2022@udec.cl) 
+
+
+
