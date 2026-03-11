@@ -1,4 +1,4 @@
-# :material-layers-outline: Matemáticas Discretas (Opcionales)
+# :material-layers-outline: Matemáticas Discretas
 ---
 
 ## **:material-school: Listado de Asignaturas**
