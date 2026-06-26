@@ -3,6 +3,6 @@
 
 ## **:material-school: Listado de Asignaturas**
 
-[:material-shape-outline: Geometría Diferencial](https://github.com/wiki-ICM/wiki-ICM/tree/main/Electivos/Electivos%20Libres/Geometr%C3%ADa%20Diferencial%20(525582)){ .md-button }
+[:material-shape-outline: Geometría Diferencial](https://drive.google.com/drive/folders/1e9XIp4C5AnD3toH4RLiKddzEjkvfGYzR?usp=sharing){ .md-button }
 
 
