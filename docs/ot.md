@@ -3,8 +3,8 @@
 
 ## **:material-school: Licenciatura en Matemáticas**
 
-[:material-laptop: Álgebra con Software](https://github.com/wiki-ICM/wiki-ICM/tree/main/Otros/%C3%81lgebra%20y%20Software%20(LM)%20(527282)){ .md-button }
-[:material-numeric: Teoría de Números](https://github.com/wiki-ICM/wiki-ICM/tree/main/Otros/Teor%C3%ADa%20de%20N%C3%BAmeros%20(LM)%20(527288)){ .md-button }
-[:material-shape: Teoría de Grupos](https://github.com/wiki-ICM/wiki-ICM/tree/main/Otros/Teor%C3%ADa%20de%20Grupos%20(LM)%20(527307)){ .md-button }
-[:material-group: Teoria de Galois](https://github.com/wiki-ICM/wiki-ICM/tree/main/Otros/Teoria%20de%20Galois%20(LM)){ .md-button }
-[:material-vector-curve: Geometria Diferencial](https://github.com/wiki-ICM/wiki-ICM/tree/main/Otros/Geometria%20Diferencial%20(LM)){ .md-button }
+[:material-laptop: Álgebra con Software](https://drive.google.com/drive/folders/12QDa8GjTIz2plUVO8kWvypsGkeGQfWXn?usp=sharing){ .md-button }
+[:material-numeric: Teoría de Números](https://drive.google.com/drive/folders/1wKMHdtqVO7T2GEV56-sPActK6crzsl3b?usp=sharing){ .md-button }
+[:material-shape: Teoría de Grupos](https://drive.google.com/drive/folders/1uI2S_GtfKq86VQY6p2DOie-h1D0Z5_0A?usp=sharing){ .md-button }
+[:material-group: Teoria de Galois](https://drive.google.com/drive/folders/1vlV-GeE4wLX1XQYJzVVar-MtHY1V8jup?usp=sharing){ .md-button }
+[:material-vector-curve: Geometria Diferencial](https://drive.google.com/drive/folders/18W9pyTceZlfPXgtQafo_bP7yR-biq1wZ?usp=sharing){ .md-button }
